@@ -1,6 +1,6 @@
 # Hello 🌊
 
-Im a university student who *sometimes* likes to mess with coding and such. I don't really even know the basics though... yet.
+I'm a university student who *sometimes* likes to mess with coding and such. I don't really even know the basics though... yet.
 
 <!--
 **GeraltDev2/GeraltDev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
