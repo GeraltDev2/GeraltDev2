@@ -4,4 +4,4 @@ I'm a university student who *sometimes* likes to mess with coding and such. I d
 \
 \
 [![GeraltDev](https://modfolio.creeperkatze.dev/modrinth/user/GeraltDev)](https://modrinth.com/user/GeraltDev)
-<img src="https://c.tenor.com/vxXS1fQeiAYAAAAC/tenor.gif" alt="funny gif" width="30%" align="right" />
+<img src="https://c.tenor.com/vxXS1fQeiAYAAAAC/tenor.gif" alt="funny gif" width="32%" align="right" />
